@@ -20,6 +20,8 @@
 
 **git status -** mostra as ações 
 
+**git clone + link-** clona um repositório 
+
 **git checkout -b -** cria a branch e se movimenta para ela 
 
 **git branch -m -** Renomear uma branch
@@ -47,7 +49,6 @@
 **git push "origin" +(brunch) -** Sobe os arquivos para o GitHub
 
 **git pull origin +(brunch) -** captura atualizações online e faz merge delas com seu trabalho local
-
 
 
 
