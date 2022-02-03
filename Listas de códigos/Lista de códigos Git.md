@@ -38,13 +38,13 @@
 
 **git add . ou -A -** Adiciona tota a pasta
 
-**git merge origin (*brunch) -** Faz merge de atualizações feitas online com seu trabalho local
+**git merge origin (brunch) -** Faz merge de atualizações feitas online com seu trabalho local
 
 **git commit -m "comentário" -** Realiza o commit do arquivo
 
 **git fetch origin -** Faz fetch das atualizações feitas em um repositório online
 
-**git push "origin" +(*brunch) -** Sobe os arquivos para o GitHub
+**git push "origin" +(brunch) -** Sobe os arquivos para o GitHub
 
 **git pull origin +(brunch) -** captura atualizações online e faz merge delas com seu trabalho local
 
