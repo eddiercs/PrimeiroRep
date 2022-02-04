@@ -2,6 +2,9 @@
 Repositório criado para o desafio de projeto.
 
 ## Links Úteis 
+
+[Documentação android]    (https://developer.android.com/docs?hl=pt-br)
+
 [Sintaxe Básica Markdown] (https://www.markdownguide.org/basic-syntax/)
 
 [apply changes]           (https://developer.android.com/studio/run#apply-changes)
