@@ -3,6 +3,8 @@ Repositório criado para o desafio de projeto.
 
 ## Links Úteis 
 
+[Play Kotlin]             (https://play.kotlinlang.org/)
+
 [Documentação android]    (https://developer.android.com/docs?hl=pt-br)
 
 [Sintaxe Básica Markdown] (https://www.markdownguide.org/basic-syntax/)
